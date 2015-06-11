@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Exec</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Login</string>
+
+
+    <!-- LOGIN UI-->
+    <string name="login_welcome_message">Bienvenido</string>
+    <string name="login_email">usuario@exec.cl</string>
+    <string name="login_password">password</string>
+    <string name="login_button">Login</string>
+    <string name="progress_dialog">Loading</string>
+
+    <!-- LOGIN UI Google SignIn-->
+    <string name="google_sign_in_text">Login with Google Account</string>
+    <string name="google_sign_in_short_text">Google</string>
+
+    <!-- LOGIN UI Facebook-->
+    <string name="facebook_login_text">Login with Facebook Account</string>
+    <string name="facebook_login_short_text">Facebook</string>
+    <string name="facebook_app_id">473291649497631</string>
+
+    <!-- LOGIN UI Twitter-->
+    <string name="twitter_login_text">Login with Twitter Account</string>
+    <string name="twitter_login_short_text">Twitter</string>
+
+
+
+    <!-- Details -->
+    <!-- GEX Fragment UI-->
+    <string name="gex_id_project">1</string>
+    <string name="gex_name_project">GEX</string>
+    <string name="title_section_main">GEX</string>
+    <string name="gex_description_project">Esto es la descripcion del proyecto en GEX</string>
+
+    <!-- MANTIS Fragment UI-->
+    <string name="title_section_mantis">MANTIS</string>
+    <string name="mantis_id_incidence_project">0018588</string>
+    <string name="mantis_name_project">GEX</string>
+    <string name="mantis_resume_project">Esto es la descripcion del proyecto en Mantis</string>
+    <string name="mantis_severity_project">menor</string>
+    <string name="mantis_state_project">resuelto en desarrollo</string>
+
+
+    <!-- STAT Fragment UI-->
+    <string name="title_section_statistics">STAT</string>
+
+</resources>
